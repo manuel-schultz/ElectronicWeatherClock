@@ -1,0 +1,12 @@
+.main-container {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+body {
+    color: #adff2f;
+    background-color: #000000;
+}
