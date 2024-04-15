@@ -1,0 +1,16 @@
+{
+  "name": "electronicweatherclock",
+  "version": "1.0.0",
+  "description": "A small time and wheather app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Time",
+    "Clock",
+    "Weather"
+  ],
+  "author": "Manuel Schultz <manuel@schultz.ch>",
+  "license": "ISC"
+}
